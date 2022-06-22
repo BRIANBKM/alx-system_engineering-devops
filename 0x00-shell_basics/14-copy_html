@@ -1,2 +1,6 @@
 #!/bin/bash
-cp -u*.html
+cd ../
+for f in *.html
+do
+	cp -v "$f" ../
+done 
