@@ -1,0 +1,3 @@
+#!/bin/bash
+!:mime school
+file -c -m school
