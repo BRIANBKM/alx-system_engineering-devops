@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 less /etc/passwd
+=======
+#!/bin/bash
+less /etc/passwd
+>>>>>>> 28d956fa473a1ac98bfb87cd6ec33afcbdee0f2a
